@@ -1,2 +1,3 @@
-# TicTacToe
-Tic Tac Toe in Python with Tkinter
+  Jocul X și 0 în Python este un joc simplu între doi jucători pe o tablă 3x3. Programul definește tabla de joc și permite fiecărui jucător să introducă un simbol („X” sau „0”) într-o poziție specifică. După fiecare mutare, verifică dacă există o linie de trei simboluri identice (pe linie, coloană sau diagonală), declarând un câștigător sau continuând jocul. Jocul se încheie fie când unul dintre jucători câștigă, fie când tabla este completă, indicând o remiză.
+  Scopul principal al acestui proiect este de a crea un joc simplu, dar complet funcțional, care să permită doi jucători să joace "X și 0" în mod interactiv. Acest scop poate fi atins prin implementarea regulilor de bază ale jocului, prin validarea fiecărei mișcări pentru a asigura o experiență de joc corectă și coerentă.
+  În afară de funcționalitatea de bază, proiectul urmărește să ofere o bază pentru dezvoltarea altor abilități, cum ar fi gândirea algoritmică, înțelegerea structurilor de date și utilizarea conceptelor de control al fluxului și al erorilor.
